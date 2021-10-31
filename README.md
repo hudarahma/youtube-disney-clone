@@ -3,7 +3,7 @@
 <p align="center">
     <img src='/public/images/disney-login-page.jpg' alt='disney-clone' 
     width="180" height="180"/>
-    <img src='/public/images/home-page-disney.png' alt='disney-clone' 
+    <img src='/public/images/home-page-disney.PNG' alt='disney-clone' 
     width="180" height="180"/>
 </p>
 
