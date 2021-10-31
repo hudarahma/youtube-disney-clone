@@ -14,8 +14,8 @@ function App() {
       <Header />
        <Switch>
           <Route path='/detail/:id' component={Detail} />
-         <Route path='/home' component={Home} />
-         <Route exact path='/' component={Login} />
+          <Route path='/home' component={Home} />
+          <Route exact path='/' component={Login} />
        </Switch>
      </Router>
     </div>
@@ -23,3 +23,4 @@ function App() {
 }
 
 export default App;
+ 
