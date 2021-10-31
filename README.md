@@ -3,7 +3,7 @@
 <p align="center">
     <img src='/public/images/disney-login-page.jpg' alt='disney-clone' 
     width="180" height="180"/>
-    <img src='/public/images/home-page-disney.jpg' alt='disney-clone' 
+    <img src='/public/images/home-page-disney.png' alt='disney-clone' 
     width="180" height="180"/>
 </p>
 
@@ -14,7 +14,7 @@ Using Firebase for the google Auth and Firestore for the backend.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
-See the hosting by firebase: `https://disney-clone-72183.web.app/`
+See the hosting by firebase: [https://disney-clone-72183.web.app/](https://disney-clone-72183.web.app/)
 # Getting Started
 
  A few simple steps, you can set up the project:
