@@ -2,9 +2,9 @@
 
 <p align="center">
     <img src='/public/images/disney-login-page.jpg' alt='disney-clone' 
-    width="180" height="180"/>
+    width="200" height="200"/>
     <img src='/public/images/home-page-disney.PNG' alt='disney-clone' 
-    width="180" height="180"/>
+    width="200" height="200"/>
 </p>
 
 The project its about The YOUTUBE-DISNEY-CLONE front-end . A good practice for using styled components , react-redux and redux-toolkit in your projects.
